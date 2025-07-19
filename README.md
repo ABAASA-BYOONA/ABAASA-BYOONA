@@ -3,10 +3,31 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0FFFC0&center=true&vCenter=true&width=600&lines=Hi+I'm+Abaasa+Byoona+%F0%9F%91%8B;A+Full-Stack+Developer+and+Engineer" alt="Typing SVG" />
 </p>
 
+<table>
+  <tr>
+    <td>
 
+<h1>💫 About Me</h1>
 
-# 💫 About Me:
-👾 Who is Abaasa Byoona?<br>🚀 I’m a code-slinging software engineer who writes logic by moonlight, breaks bugs by sunlight, and never turns down a strong cup of coffee.<br><br>🏀 When I’m not building beautiful UIs or architecting backends, I’m on the court throwing dimes and draining threes.<br>🎌 I dive deep into anime worlds like it’s second nature — from Tokyo streets to demon realms.<br>🎧 I live on music, thrive on caffeine, and write my best code when the world’s asleep.<br><br>💻 Languages? I speak HTML, CSS, JS, Java, C++, React, Node, TypeScript, PHP, MongoDB… and sarcasm.<br>🎨 Tools? Figma, VSCode, Illustrator — my digital dojo.<br>🧠 OS of choice? Linux. Obviously.<br><br>In short: I build, I ball, I binge — all with a keyboard and coffee in hand.
+👾 <b>Who is Abaasa Byoona?</b><br>
+🚀 I’m a code-slinging software engineer who writes logic by moonlight, breaks bugs by sunlight, and never turns down a strong cup of coffee.<br><br>
+
+🏀 When I’m not building beautiful UIs or architecting backends, I’m on the court throwing dimes and draining threes.<br>
+🎌 I dive deep into anime worlds like it’s second nature — from Tokyo streets to demon realms.<br>
+🎧 I live on music, thrive on caffeine, and write my best code when the world’s asleep.<br><br>
+
+💻 <b>Languages?</b> I speak HTML, CSS, JS, Java, C++, React, Node, TypeScript, PHP, MongoDB… and sarcasm.<br>
+🎨 <b>Tools?</b> Figma, VSCode, Illustrator — my digital dojo.<br>
+🧠 <b>OS of choice?</b> Linux. Obviously.<br><br>
+
+In short: I build, I ball, I binge — all with a keyboard and coffee in hand.
+
+</td>
+<td>
+  <img src="https://media1.tenor.com/m/6IKCfZD8wMkAAAAC/computer-computer-monitor.gif" width="300" alt="Anime character coding with coffee" />
+</td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:
