@@ -22,6 +22,8 @@
 
 In short: I build, I ball, I binge — all with a keyboard and coffee in hand.
 
+My girlfriend: Ndagire Martha
+
 </td>
 <td>
   <img src="https://media1.tenor.com/m/6IKCfZD8wMkAAAAC/computer-computer-monitor.gif" width="300" alt="Anime character coding with coffee" />
