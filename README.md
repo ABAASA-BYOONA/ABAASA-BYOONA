@@ -10,7 +10,7 @@
 <h1>💫 About Me</h1>
 
 👾 <b>Who is Abaasa Byoona?</b><br>
-🚀 I’m a code-slinging software engineer who writes logic by moonlight, breaks bugs by sunlight, and never turns down a strong cup of coffee.<br><br>
+🚀 I’m a code-slinging software engineer who writes logic by moonlight, breaks bugs by sunlight, and never turns down a strong cup of coffee unless my girlfriend Martha Ndagire refuses .<br><br>
 
 🏀 When I’m not building beautiful UIs or architecting backends, I’m on the court throwing dimes and draining threes.<br>
 🎌 I dive deep into anime worlds like it’s second nature — from Tokyo streets to demon realms.<br>
@@ -21,8 +21,6 @@
 🧠 <b>OS of choice?</b> Linux. Obviously.<br><br>
 
 In short: I build, I ball, I binge — all with a keyboard and coffee in hand.
-
-My girlfriend: Ndagire Martha
 
 </td>
 <td>
