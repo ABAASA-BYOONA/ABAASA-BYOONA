@@ -20,7 +20,7 @@
 🎨 <b>Tools?</b> Figma, VSCode, Illustrator — my digital dojo.<br>
 🧠 <b>OS of choice?</b> Linux. Obviously.<br><br>
 
-In short: I build, I ball, I binge — all with a keyboard and coffee in hand and <h1>my girlfriend : Martha Ndagire</h1> supporting me all the way.
+In short: I build, I ball, I binge — all with a keyboard and coffee in hand.
 
 </td>
 <td>
@@ -55,4 +55,4 @@ In short: I build, I ball, I binge — all with a keyboard and coffee in hand an
 
 ---
 
-### 🔥 Powered by Midnight, Coffee & Keyboard Clicks
+### 🔥 Powered by Midnight, Coffee & Keyboard Clicks and a shout out to Ndagire
